@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Ignacio Bilbao
+# 👋 ¡Bienvenido a mi perfil GitHub!
 
-📚 Estudiante y analista programador en formación. Siempre en busca de nuevos desafíos para expandir mis habilidades y conocimientos en tecnología.
+📚 Soy Ignacio Bilbao, un **analista programador en formación** y estudiante apasionado por la tecnología. Siempre estoy en busca de nuevos retos para expandir mis habilidades y conocimientos en el mundo tech.
 
 🌱 Actualmente enfocado en el desarrollo full-stack y aprendizaje continuo.
 
